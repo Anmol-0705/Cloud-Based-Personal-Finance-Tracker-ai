@@ -1,1 +1,18 @@
-node_modules/\n.venv/\n.env\n.vscode/\n.DS_Store\ndist/\n__pycache__/\n*.pyc\n.env.*\n
+# Node
+node_modules/
+dist/
+.env
+.env.*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Docker
+docker-compose.override.yml
