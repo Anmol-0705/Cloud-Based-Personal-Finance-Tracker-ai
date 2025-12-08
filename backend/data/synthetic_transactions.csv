@@ -1,0 +1,187 @@
+date,description,merchant,amount,category
+2025-01-01,Monthly Rent,Landlord,1500,Rent
+2025-01-02,Supermarket visit,Walmart,65.23,Groceries
+2025-01-03,Electricity Bill,PowerGrid,82.45,Utilities
+2025-01-04,Movie night,AMC Theatres,28.50,Entertainment
+2025-01-05,Uber ride,Uber,12.75,Transport
+2025-01-06,Lunch with family,McDonalds,32.10,Dining
+2025-01-07,Online shopping,Amazon,120.99,Shopping
+2025-01-08,Groceries,Walmart,72.40,Groceries
+2025-01-09,Doctor Visit,City Clinic,95.00,Healthcare
+2025-01-10,Gas refill,Shell,40.50,Transport
+2025-01-11,WiFi Bill,Comcast,55.00,Utilities
+2025-01-12,Dining out,KFC,25.30,Dining
+2025-01-13,Entertainment Subscription,Netflix,15.49,Entertainment
+2025-01-14,Groceries,Walmart,68.12,Groceries
+2025-01-15,Clothes shopping,Zara,89.90,Shopping
+2025-01-16,Car service,AutoCare,220.00,Transport
+2025-01-17,Emergency Treatment,City Hospital,450.00,Healthcare
+2025-01-18,Snacks,7-Eleven,12.80,Groceries
+2025-01-19,Lunch,Dominos,18.25,Dining
+2025-01-20,Uber ride,Uber,10.40,Transport
+2025-01-21,Electricity Bill,PowerGrid,84.10,Utilities
+2025-01-22,Groceries,Walmart,70.55,Groceries
+2025-01-23,Movie Night,AMC,26.00,Entertainment
+2025-01-24,Online shopping,Amazon,135.00,Shopping
+2025-01-25,Healthcare medicine,CVS Pharmacy,34.99,Healthcare
+2025-01-26,Dining out,Burger King,21.40,Dining
+2025-01-27,Gas refill,Shell,43.20,Transport
+2025-01-28,Groceries,Walmart,66.33,Groceries
+2025-01-29,Clothes shopping,H&M,75.25,Shopping
+2025-01-30,Lunch,Dominos,17.80,Dining
+2025-01-31,Electricity Bill,PowerGrid,85.00,Utilities
+
+2025-02-01,Monthly Rent,Landlord,1500,Rent
+2025-02-02,Groceries,Walmart,61.10,Groceries
+2025-02-03,Electricity Bill,PowerGrid,82.75,Utilities
+2025-02-04,Movie Night,AMC,29.00,Entertainment
+2025-02-05,Uber ride,Uber,11.20,Transport
+2025-02-06,Lunch out,McDonalds,31.00,Dining
+2025-02-07,Online shopping,Amazon,115.49,Shopping
+2025-02-08,Groceries,Walmart,74.60,Groceries
+2025-02-09,Doctor Visit,City Clinic,88.00,Healthcare
+2025-02-10,Gas refill,Shell,42.30,Transport
+2025-02-11,WiFi Bill,Comcast,55.00,Utilities
+2025-02-12,Dining out,KFC,26.50,Dining
+2025-02-13,Entertainment Subscription,Netflix,15.49,Entertainment
+2025-02-14,Groceries,Walmart,71.90,Groceries
+2025-02-15,Clothes shopping,Zara,92.00,Shopping
+2025-02-16,Car repair,AutoCare,310.00,Transport
+2025-02-17,Medical emergency,City Hospital,580.00,Healthcare
+2025-02-18,Snacks,7-Eleven,11.65,Groceries
+2025-02-19,Pizza lunch,Dominos,22.00,Dining
+2025-02-20,Uber ride,Uber,9.80,Transport
+2025-02-21,Electricity Bill,PowerGrid,86.10,Utilities
+2025-02-22,Groceries,Walmart,67.25,Groceries
+2025-02-23,Movie Night,AMC,27.90,Entertainment
+2025-02-24,Online shopping,Amazon,140.00,Shopping
+2025-02-25,Healthcare supplies,CVS Pharmacy,38.50,Healthcare
+2025-02-26,Dining out,Burger King,23.10,Dining
+2025-02-27,Gas refill,Shell,44.80,Transport
+2025-02-28,Groceries,Walmart,65.40,Groceries
+
+2025-03-01,Monthly Rent,Landlord,1500,Rent
+2025-03-02,Groceries,Walmart,63.10,Groceries
+2025-03-03,Electricity Bill,PowerGrid,83.75,Utilities
+2025-03-04,Movie night,AMC,28.50,Entertainment
+2025-03-05,Taxi ride,Uber,10.90,Transport
+2025-03-06,Lunch out,KFC,27.60,Dining
+2025-03-07,Online shopping,Amazon,130.00,Shopping
+2025-03-08,Groceries,Walmart,75.50,Groceries
+2025-03-09,Doctor Visit,City Clinic,97.00,Healthcare
+2025-03-10,Gas refill,Shell,39.60,Transport
+2025-03-11,WiFi Bill,Comcast,55.00,Utilities
+2025-03-12,Dining out,McDonalds,29.50,Dining
+2025-03-13,Entertainment Subscription,Netflix,15.49,Entertainment
+2025-03-14,Groceries,Walmart,69.90,Groceries
+2025-03-15,Clothes shopping,Nike,120.00,Shopping
+2025-03-16,Car maintenance,AutoCare,265.00,Transport
+2025-03-17,Medical treatment,City Hospital,410.00,Healthcare
+2025-03-18,Snacks,7-Eleven,10.45,Groceries
+2025-03-19,Pizza lunch,Dominos,19.80,Dining
+2025-03-20,Uber ride,Uber,12.40,Transport
+2025-03-21,Electricity Bill,PowerGrid,87.20,Utilities
+2025-03-22,Groceries,Walmart,73.20,Groceries
+2025-03-23,Movie Night,AMC,26.00,Entertainment
+2025-03-24,Online shopping,Amazon,145.00,Shopping
+2025-03-25,Healthcare medicine,CVS Pharmacy,36.75,Healthcare
+2025-03-26,Dining out,Burger King,21.40,Dining
+2025-03-27,Gas refill,Shell,45.20,Transport
+2025-03-28,Groceries,Walmart,67.10,Groceries
+2025-03-29,Clothes shopping,H&M,84.60,Shopping
+2025-03-30,Lunch,Dominos,18.00,Dining
+2025-03-31,Electricity Bill,PowerGrid,85.90,Utilities
+
+2025-04-01,Monthly Rent,Landlord,1500,Rent
+2025-04-02,Groceries,Walmart,65.00,Groceries
+2025-04-03,Electricity Bill,PowerGrid,83.10,Utilities
+2025-04-04,Movie Night,AMC,28.50,Entertainment
+2025-04-05,Uber ride,Uber,11.80,Transport
+2025-04-06,Lunch,KFC,26.40,Dining
+2025-04-07,Online shopping,Amazon,119.00,Shopping
+2025-04-08,Groceries,Walmart,73.60,Groceries
+2025-04-09,Doctor Visit,City Clinic,90.00,Healthcare
+2025-04-10,Gas refill,Shell,40.80,Transport
+2025-04-11,WiFi Bill,Comcast,55.00,Utilities
+2025-04-12,Dining,McDonalds,28.10,Dining
+2025-04-13,Entertainment Subscription,Netflix,15.49,Entertainment
+2025-04-14,Groceries,Walmart,70.90,Groceries
+2025-04-15,Clothes shopping,Zara,88.90,Shopping
+2025-04-16,Car service,AutoCare,230.00,Transport
+2025-04-17,Medication,CVS Pharmacy,42.00,Healthcare
+2025-04-18,Snacks,7-Eleven,13.20,Groceries
+2025-04-19,Pizza lunch,Dominos,20.60,Dining
+2025-04-20,Uber ride,Uber,9.90,Transport
+2025-04-21,Electricity Bill,PowerGrid,85.40,Utilities
+2025-04-22,Groceries,Walmart,71.30,Groceries
+2025-04-23,Movie Night,AMC,29.20,Entertainment
+2025-04-24,Online shopping,Amazon,130.00,Shopping
+2025-04-25,Healthcare supplies,CVS Pharmacy,39.80,Healthcare
+2025-04-26,Dining,Burger King,22.40,Dining
+2025-04-27,Gas refill,Shell,44.10,Transport
+2025-04-28,Groceries,Walmart,69.40,Groceries
+2025-04-29,Shopping,H&M,83.20,Shopping
+2025-04-30,Lunch,Dominos,17.60,Dining
+
+2025-05-01,Monthly Rent,Landlord,1500,Rent
+2025-05-02,Groceries,Walmart,64.10,Groceries
+2025-05-03,Electricity Bill,PowerGrid,82.95,Utilities
+2025-05-04,Movie Night,AMC,26.50,Entertainment
+2025-05-05,Uber ride,Uber,11.20,Transport
+2025-05-06,Dining,McDonalds,27.50,Dining
+2025-05-07,Online shopping,Amazon,118.40,Shopping
+2025-05-08,Groceries,Walmart,75.60,Groceries
+2025-05-09,Doctor Visit,City Clinic,98.00,Healthcare
+2025-05-10,Gas refill,Shell,41.10,Transport
+2025-05-11,WiFi Bill,Comcast,55.00,Utilities
+2025-05-12,Dining,KFC,29.30,Dining
+2025-05-13,Entertainment Subscription,Netflix,15.49,Entertainment
+2025-05-14,Groceries,Walmart,71.90,Groceries
+2025-05-15,Clothes shopping,Zara,95.10,Shopping
+2025-05-16,Car maintenance,AutoCare,240.00,Transport
+2025-05-17,Hospital Visit,City Hospital,380.00,Healthcare
+2025-05-18,Snacks,7-Eleven,12.50,Groceries
+2025-05-19,Pizza lunch,Dominos,21.80,Dining
+2025-05-20,Taxi ride,Uber,10.30,Transport
+2025-05-21,Electricity Bill,PowerGrid,86.20,Utilities
+2025-05-22,Groceries,Walmart,72.40,Groceries
+2025-05-23,Movie Night,AMC,27.50,Entertainment
+2025-05-24,Online shopping,Amazon,138.00,Shopping
+2025-05-25,Pharmacy purchase,CVS Pharmacy,44.00,Healthcare
+2025-05-26,Dining,Burger King,24.60,Dining
+2025-05-27,Gas refill,Shell,45.50,Transport
+2025-05-28,Groceries,Walmart,66.80,Groceries
+2025-05-29,Shopping,H&M,88.30,Shopping
+2025-05-30,Lunch,Dominos,19.50,Dining
+2025-05-31,Electricity Bill,PowerGrid,84.60,Utilities
+
+2025-06-01,Monthly Rent,Landlord,1500,Rent
+2025-06-02,Groceries,Walmart,66.30,Groceries
+2025-06-03,Electricity Bill,PowerGrid,82.10,Utilities
+2025-06-04,Movie Night,AMC,26.80,Entertainment
+2025-06-05,Uber ride,Uber,12.00,Transport
+2025-06-06,Dining,KFC,27.90,Dining
+2025-06-07,Online shopping,Amazon,119.70,Shopping
+2025-06-08,Groceries,Walmart,74.10,Groceries
+2025-06-09,Doctor Visit,City Clinic,93.00,Healthcare
+2025-06-10,Gas refill,Shell,40.20,Transport
+2025-06-11,WiFi Bill,Comcast,55.00,Utilities
+2025-06-12,Dining,McDonalds,28.70,Dining
+2025-06-13,Entertainment Subscription,Netflix,15.49,Entertainment
+2025-06-14,Groceries,Walmart,71.50,Groceries
+2025-06-15,Clothes shopping,Uniqlo,82.90,Shopping
+2025-06-16,Car repair,AutoCare,255.00,Transport
+2025-06-17,Hospital Checkup,City Hospital,365.00,Healthcare
+2025-06-18,Snacks,7-Eleven,12.30,Groceries
+2025-06-19,Pizza,Dominos,20.10,Dining
+2025-06-20,Uber ride,Uber,9.70,Transport
+2025-06-21,Electricity Bill,PowerGrid,86.40,Utilities
+2025-06-22,Groceries,Walmart,73.40,Groceries
+2025-06-23,Movie Night,AMC,28.10,Entertainment
+2025-06-24,Online shopping,Amazon,142.50,Shopping
+2025-06-25,Pharmacy,CVS Pharmacy,41.20,Healthcare
+2025-06-26,Dining,Burger King,23.70,Dining
+2025-06-27,Gas refill,Shell,46.20,Transport
+2025-06-28,Groceries,Walmart,67.50,Groceries
+2025-06-29,Shopping,H&M,87.40,Shopping
+2025-06-30,Lunch,Dominos,19.90,Dining
