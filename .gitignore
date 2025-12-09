@@ -16,3 +16,14 @@ __pycache__/
 
 # Docker
 docker-compose.override.yml
+
+# Local env and build
+.env
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+frontend/node_modules/
+*.bak
+.DS_Store
+
