@@ -1,41 +1,53 @@
 import React, { useEffect, useState } from "react";
+import ChartCard from "../components/ChartCard";
 import api from "../api/api";
-import { useAuth } from "../context/auth";
 
 export default function Dashboard() {
-  const { token } = useAuth();
   const [summary, setSummary] = useState(null);
   const [familyId, setFamilyId] = useState(null);
 
   useEffect(() => {
-    async function createFamily() {
-      const res = await api.post("/families", { name: "Demo Family" });
-      setFamilyId(res.data.id);
+    async function ensureFamily() {
+      try {
+        const res = await api.post("/families", { name: "Demo Family" });
+        setFamilyId(res.data.id);
+      } catch (e) {
+        // ignore if already exists
+      }
     }
-    if (token) createFamily();
-  }, [token]);
+    ensureFamily();
+  }, []);
 
   useEffect(() => {
-    async function loadSummary() {
+    async function load() {
       if (!familyId) return;
       const res = await api.get(`/families/${familyId}/dashboard`);
       setSummary(res.data);
     }
-    loadSummary();
+    load();
   }, [familyId]);
 
-  if (!token) return <p>Please login first.</p>;
-  if (!summary) return <p>Loading...</p>;
-
   return (
-    <div>
-      <h2 className="text-2xl font-semibold mb-4">Dashboard</h2>
-      <p className="text-lg">Total last 30 days: ₹{summary.total_last_30_days}</p>
-      <ul>
-        {summary.by_category.map((c) => (
-          <li key={c.category}>{c.category}: ₹{c.amount}</li>
-        ))}
-      </ul>
+    <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <div className="lg:col-span-2">
+        <ChartCard title="Spending (last 30 days)">
+          {summary ? <div>₹{summary.total_last_30_days}</div> : <div>Loading...</div>}
+        </ChartCard>
+      </div>
+      <div>
+        <ChartCard title="By Category">
+          {summary ? (
+            <ul>
+              {summary.by_category.map(c => (
+                <li key={c.category} className="flex justify-between py-1">
+                  <span>{c.category}</span>
+                  <span>₹{c.amount}</span>
+                </li>
+              ))}
+            </ul>
+          ) : <div>Loading...</div>}
+        </ChartCard>
+      </div>
     </div>
   );
 }
